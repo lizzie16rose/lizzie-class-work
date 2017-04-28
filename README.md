@@ -1,6 +1,16 @@
 # lizzie-class-work
 
 ## Header 2
+1) This is a dollar sign, $
+- this is also a dollar sign, $
+- $
+- $
+- $
+- $
+- $
+- $
+- $
+- MONEY MONEY MONEY
 
 ## Header 3
 
@@ -8,8 +18,10 @@
 - more bullet points
 - more bullet points
 - more bullet points
+- even more bullet points
 - more bullet points
 - more bullet points
+- MORE BULLET POINTS
 - more bullet points
 - more bullet points
 - I made another bullet point
