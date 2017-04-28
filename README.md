@@ -12,7 +12,7 @@
 - $
 - MONEY MONEY MONEY
 
-## Header 3
+### Header 3
 
 1) This is a bullet point
 - more bullet points
@@ -28,3 +28,7 @@
 - In case you can't tell, this is a bullet point
 - This is also a bullet point
 - I made a lot of bullet points
+
+#### HEADER
+
+THIS IS THE ONLY THING I KNOW HOW TO DO!!!
