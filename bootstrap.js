@@ -37,26 +37,26 @@ const app = new Vue({
 		postlist: [
 			// constructed Post item
 			new Post(
-				'First Post! Yay!', 		// this is the TITLE place in the class
-				'https://google.com',	// this is the LINK place in the class
-				'An Author',			// this is the AUTHOR place in the class
-				'https://unsplash.it/200',	// this is the IMAGE place in the class
-				'Lorem ipsum dolor sit amet, consectetur.' // this is the BODY place in the class
+				'Kittens! Yay!', 		// this is the TITLE place in the class
+				'https://www.google.com/#q=kitten',	// this is the LINK place in the class
+				'Kittens!',			// this is the AUTHOR place in the class
+				'kitten1.jpg',	// this is the IMAGE place in the class
+				'kitten definition: /kitn/ noun 1) a young cat.' // this is the BODY place in the class
 				),
 
 			new Post(
-				'Second Post: Lorem',
-				'https://vuejs.org',
-				'Sammie Author',
-				'img-200.jpg', // this is a local image in the same folder as the js script
-				'This has a local image. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi viverra euismod euismod. Nulla leo est, venenatis at fringilla eget, tincidunt sed justo. In efficitur dui odio, sit amet finibus sem hendrerit ut. Etiam vestibulum sem vel metus lobortis, vitae dictum metus sagittis. Nulla facilisi. '
+				'Duh Cool kitten',
+				'https://s-media-cache-ak0.pinimg.com/originals/78/e5/b2/78e5b2167e2330018caa3d4028598cf3.jpg',
+				'Duh Cool Cat',
+				'Duh cool kitten.jpg', // this is a local image in the same folder as the js script
+				'Duh cool kitten loves to wear his cool glasses. He also loves to eat ntolmades . '
 				),
 
 			new Post(
-				'This Post: Crazy Fredrick',
-				'https://google.com',
+				'This Post: ntolmades',
+				'https://media-cdn.tripadvisor.com/media/photo-s/02/a0/c6/07/filename-dsc-8602-jpg.jpg',
 				'Bob Author',
-				'https://unsplash.it/200',
+				'',
 				'Crazy Fredrick bought many very exquisite opal jewels.'
 				),
 
