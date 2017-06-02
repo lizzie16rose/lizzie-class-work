@@ -53,27 +53,28 @@ const app = new Vue({
 				),
 
 			new Post(
-				'This Post: ntolmades',
+				
+				"Duh cool kitten's favorite food: ntolmades",
+				'https://www.sintagespareas.gr/sintages/laxanontolmades-paradosiakoi.html',
+				'Lizzie',
 				'https://media-cdn.tripadvisor.com/media/photo-s/02/a0/c6/07/filename-dsc-8602-jpg.jpg',
-				'Bob Author',
-				'',
-				'Crazy Fredrick bought many very exquisite opal jewels.'
+				'"they are very yummy."'
 				),
 
 			new Post(
-				'Another Post: promptly judged',
+				"The kitten's favorite place",
 				'https://vuejs.org',
-				'Jane Author',
+				'Lizzie',
 				'https://unsplash.it/200',
-				'We promptly judged antique ivory buckles for the next prize.'
+				'fun, fun, fun..'
 				),
 
 			new Post(
-				'Last Post: Jaded zombies',
-				'https://google.com',
-				'Anptoght Author',
-				'#',
-				'Jaded zombies acted quaintly but kept driving their oxen forward.'
+				'Friends',
+				'http://www.adoptapet.com/adoption_rescue/82579.html',
+				'Lizzie',
+				'https://fthmb.tqn.com/INZEtkWYEpsZaksoewT_mA4DREo=/960x0/filters:no_upscale()/about/Two-kittens-GettyImages-559292093-58822e4f3df78c2ccd8b318c.jpg',
+				'Adopt these cute little guys.'
 				)
 		]
 	},
